@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @senatoprakci
-- 👀 I’m interested in Flutter!
-- 💅🏻 I'm improving in Swift!
+- 👀 I’m interested in Swift!
 - 📫 How to reach me senaatoprakcii@gmail.com
 
 <!---
